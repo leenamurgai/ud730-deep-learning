@@ -6,9 +6,6 @@
 *.gz
 *.zip
 **/Papers
-**/tensorflow
 **/Figures
 **/.ipynb_checkpoints
-**/submission
 *6_lstm*
-FinalProject/Code/3Layer32x32Model*
