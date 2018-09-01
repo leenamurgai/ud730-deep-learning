@@ -1,6 +1,8 @@
 # ud730-deep-learning
 ## [UD730 Deep Learning Udacity Course (Vincent Vanhoucke)](https://classroom.udacity.com/courses/ud730)
 
+[Course Notes](https://github.com/leenamurgai/ud775-git-and-github/blob/master/HowToUseGitAndGitHub.pdf)
+
 1. Machine Learning to Deep Learning
    * Logistic Classification
    * Stochastic Optimisation
